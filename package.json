@@ -50,7 +50,7 @@
       "not dead",
       "not op_mini all"
     ],
-    "homepage": "https://shanehe023.github.io/react-admin",
+    "homepage": "./",
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
